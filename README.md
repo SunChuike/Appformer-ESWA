@@ -4,7 +4,7 @@ Appformer: A Novel Framework for Mobile App Usage Prediction Leveraging Progress
 [DOI Link](https://doi.org/10.1016/j.eswa.2024.125903)
 
 Our project code is developed based on the article Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting
-([DOI Link](https://doi.org/10.1609/aaai.v35i12.17325)).
+[DOI Link](https://doi.org/10.1609/aaai.v35i12.17325).
 
 ### Data Setup
 1. Download the Tsinghua dataset from [here](https://fi.ee.tsinghua.edu.cn/appusage/).
