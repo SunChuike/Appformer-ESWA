@@ -1,0 +1,9 @@
+nohup: ignoring input
+Args in experiment:
+Namespace(model='informer', data='TSapp', root_path='./data/Tsinghua_new/time_division/test_1', data_path='primary/5', features='S', target='app_seq', freq='t', checkpoints='./checkpoints/', seq_len=4, label_len=4, pred_len=1, enc_in=64, dec_in=64, main_apps=1520, self_app_dim=32, pre_app_dim=32, d_model=128, n_heads=8, e_layers=2, d_layers=2, s_layers=[3, 2, 1], d_ff=512, factor=5, padding=0, distil=False, dropout=0.05, attn='full', embed='learned', activation='gelu', output_attention=False, do_predict=False, mix=True, cols=None, num_workers=0, itr=1, train_epochs=20, batch_size=128, patience=2, learning_rate=0.001, des='test', loss='mse', lradj='type3', use_amp=False, inverse=False, use_gpu=True, gpu=0, use_multi_gpu=False, devices='0,1,2,3', action='', app_out=1521, app_dim=32, detail_freq='t')
+Use GPU: cuda:0
+>>>>>>>testing : informer_TSapp_ftS_sl4_ll4_pl1_dm128_nh8_el2_dl2_df512_atfull_fc5_eblearned_dtFalse_mxTrue_test_0_<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+test 166529
+Acc_1:  0.31915355 Acc_3:  0.5212517 Acc_5:  0.6104439
+--------------------------------------------------------------------------
+total_loss:  3.2272856 mrr:  0.4510658 precision:  0.16435604 recall:  0.18960634 best_f1:  0.16337143
