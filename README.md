@@ -3,6 +3,12 @@
 Appformer: A Novel Framework for Mobile App Usage Prediction Leveraging Progressive Multi-Modal Data Fusion and Feature Extraction  
 [DOI Link](https://doi.org/10.1016/j.eswa.2024.125903)
 
+我们的项目代码在文章Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting的项目基础上进行开发
+https://doi.org/10.1609/aaai.v35i12.17325
+
+Our project code is developed based on the article Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting
+([https://fi.ee.tsinghua.edu.cn/appusage/](https://doi.org/10.1609/aaai.v35i12.17325)).
+
 ### Data Setup
 1. Download the Tsinghua dataset from [here](https://fi.ee.tsinghua.edu.cn/appusage/).
 2. Place `App_Usage_Trace.txt` into the `data/Tsinghua_new` folder.
