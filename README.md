@@ -8,8 +8,8 @@ Our project code is developed based on the article Informer: Beyond Efficient Tr
 
 ### Data Setup
 1. Download the Tsinghua dataset from [here](https://fi.ee.tsinghua.edu.cn/appusage/).
-2. Place `App_Usage_Trace.txt` into the `data/Tsinghua_new` folder.
-3. Place `base_poi.txt` into `data/Tsinghua_new/location_clustering`.
+2. Place `App_Usage_Trace.txt` into the `data/Tsinghua_new/` folder.
+3. Place `base_poi.txt` into `data/Tsinghua_new/location_clustering/` folder.
 4. Run `POI_clustering_and_data_partitioning.py` to get POI clustering results and partition the training and test datasets.
 
 ### Model Training & Testing
