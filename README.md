@@ -14,5 +14,5 @@ Our project code is developed based on the article Informer: Beyond Efficient Tr
 
 ### Model Training & Testing
 1. After data processing, run `python main_informer.py` to train and test the models.
-2. The weights for the best results are available in the `checkpoints/informer_TSapp_ftS_sl4_ll4_pl1_dm128_nh8_el2_dl2_df512_atfull_fc5_eblearned_dtFalse_mxTrue_test_0_` folder.
+2. The weights for the best results are available in the `checkpoints/informer_TSapp_ftS_sl4_ll4_pl1_dm128_nh8_el2_dl2_df512_atfull_fc5_eblearned_dtFalse_mxTrue_test_0_/` folder.
 3. To test directly, comment out the `exp.train(setting)` line in `main_informer.py`.
