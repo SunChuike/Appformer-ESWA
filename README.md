@@ -1,6 +1,6 @@
 # Appformer-ESWA
 
-**Appformer: A Novel Framework for Mobile App Usage Prediction Leveraging Progressive Multi-Modal Data Fusion and Feature Extraction (ESWA 2025)**  
+**Appformer: A novel framework for mobile app usage prediction leveraging progressive multi-modal data fusion and feature extraction (ESWA 2025)**  
 *Chuike Sun, Junzhou Chen, Yue Zhao, Hao Han, Ruihai Jing, Guang Tan, Di Wu*  
 [DOI Link](https://doi.org/10.1016/j.eswa.2024.125903)  
 
