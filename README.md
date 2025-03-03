@@ -47,8 +47,9 @@ If you use Appformer, please cite:
   volume = {265},
   pages = {125903},
   year = {2025},
+  issn = {0957-4174},
   doi = {https://doi.org/10.1016/j.eswa.2024.125903},
-  author = {Chuike Sun et al.},
+  author = {Chuike Sun and Junzhou Chen and Yue Zhao and Hao Han and Ruihai Jing and Guang Tan and Di Wu},
   keywords = {App usage prediction, Transformer, Multi-modal data fusion, Feature extraction, Data mining}
 }
 ```
